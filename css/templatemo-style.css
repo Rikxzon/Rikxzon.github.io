@@ -1,8 +1,8 @@
 /*
 
-The Town
+Created by Ricky. 
 
-https://templatemo.com/tm-525-the-town
+e-mail rikxzon@yahoo.com
 
 */
 
@@ -347,23 +347,10 @@ a:focus {
   font-size: 68.5%;
 }
 
-/*---------------*/
-/***** Honey *****/
-/*---------------*/
-
-figure.effect-honey {
-  background: #4a3753;
-  max-width: 220px;
 }
 
-figure.effect-honey img {
-  opacity: 0.9;
-  -webkit-transition: opacity 0.35s;
-  transition: opacity 0.35s;
 }
 
-figure.effect-honey:hover img {
-  opacity: 0.5;
 }
 
 figure.effect-honey figcaption::before {
